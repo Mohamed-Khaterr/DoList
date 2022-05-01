@@ -1,2 +1,3 @@
 # DoList
-Like ToDo app
+
+<img src="todolist.png"/>
